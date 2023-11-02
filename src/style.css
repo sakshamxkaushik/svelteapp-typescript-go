@@ -1,0 +1,46 @@
+:root  {
+    --primary-color: #071A34;
+}
+
+
+body {
+    background-color: #071A34; /* Set the background color to #071A34 */
+    color: #FFFFFF; /* Set text color to white (#FFFFFF) */
+  }
+/* Header styles */
+
+.s-c1MG4BWNDc59 {
+    background-color: #071A34; /* Set the background color to #071A34 */
+    color: #FFFFFF; /* Set text color to white (#FFFFFF) */
+    border-bottom: 0.25px solid #697D99; /* Set the bottom border color */
+    text-align: right; /* Align text to the right */
+    /* Add any other CSS styles you want for this class */
+  }
+
+  .bg-header {
+    background-color: #071A34; /* Set the background color for the header to #071A34 */
+    color: #FFFFFF; /* Set text color to white (#FFFFFF) */
+  }
+
+
+.header {
+    background-color: #172B46;
+    color: white;
+  }
+  
+  /* CategoryList styles */
+  .category-list {
+    background-color: #172B46;
+    color: white;
+  }
+  
+  /* ProductItem styles */
+  .product-item {
+    background-color: #172B46;
+    color: white;
+  }
+
+
+
+
+  
